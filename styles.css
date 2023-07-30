@@ -1,0 +1,23 @@
+body {
+    background-color: #202225;
+}
+
+.header {
+    margin: 40px;
+    color: whitesmoke;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.navbar {
+    margin: 0px;
+}
+
+.img {
+    margin: 40px;
+}
+.text {
+    margin-left: 40px;
+    font-size: large;
+    color: whitesmoke;
+}
